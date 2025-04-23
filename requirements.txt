@@ -2,8 +2,13 @@ Flask
 Flask_SQLAlchemy
 psycopg2-binary
 scikit-learn
-numpy
+numpy   
 joblib
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0e92cae (Moved requirements.txt to root directory)
