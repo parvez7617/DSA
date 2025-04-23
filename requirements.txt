@@ -1,0 +1,9 @@
+Flask
+Flask_SQLAlchemy
+psycopg2-binary
+scikit-learn
+numpy
+joblib
+
+
+
